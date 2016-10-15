@@ -7,7 +7,7 @@ Hvordan gjøre innhold tilgjengelig på ditt hjemmeområde på internett?
 * [Terminal](#terminal)
 * [Bidra](#bidra)
 
-**NB:** For å koble på hjemmeområdet utenfor skolens nettverk (typisk hjemmefra), må du opprette en VPN-forbindelse og koble deg på denne. Instruksjoner finnes for [Mac](http://www.hioa.no/BIT/Nettverk/Veiledninger/VPN-tilkobling-for-Mac-OS-X-10.5-til-10.7), [Linux](http://www.hioa.no/BIT/Nettverk/Veiledninger/VPN-tilkobling-for-Linux-Ubuntu) og [Windows](http://www.hioa.no/BIT/Nettverk/Veiledninger/Tilgang-til-hjemmeomraade-for-Windows#manuell).
+**NB:** For å koble på hjemmeområdet utenfor skolens nettverk (typisk hjemmefra), må du opprette en VPN-forbindelse og koble deg på denne. Instruksjoner finnes for [Mac](https://student.hioa.no/vpn-mac), [Linux](https://student.hioa.no/vpn-koble-filserver#vpn) og [Windows](https://student.hioa.no/vpn-windows).
 
 ## Windows
 1. Under "Computer" trykk "Map Network drive"
